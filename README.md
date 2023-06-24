@@ -1,5 +1,5 @@
 # 💫 Sobre mí:
-Me llamo Christian, un desarrollador Front-End que está en constante formación y con ganas de avanzar tanto profesional como personalmente en el mundo del desarrollo WEB. <br><br>-----------------<br><br>🌱 Sigo aprendiendo constantemente Tecnologías Front-End<br>👨‍💻 Mi portfolio <a href="christian-ortiz.dev">christian-ortiz.dev</a><br>📫 Puedes contactar conmigo a través de: christianortiz.dev@gmail.com<br><br><br>- Experiencia en tecnologías FrontEnd tales como: HTML, CSS, JavaScript, XML, BootStrap.<br><br>- Experiencia en tecnologías BackEnd como: PHP, Java, NodeJS, MySQL.<br><br>-----------------<br><br>- Conocimientos de UI/UX.
+Me llamo Christian, un desarrollador Front-End que está en constante formación y con ganas de avanzar tanto profesional como personalmente en el mundo del desarrollo WEB. <br><br>-----------------<br><br>🌱 Sigo aprendiendo constantemente Tecnologías Front-End<br>👨‍💻 Mi portfolio <a href="christianortiz-dev.000.pe">christianortiz-dev.000.pe</a><br>📫 Puedes contactar conmigo a través de: christianortiz.dev@gmail.com<br><br><br>- Experiencia en tecnologías FrontEnd tales como: HTML, CSS, JavaScript, XML, BootStrap.<br><br>- Experiencia en tecnologías BackEnd como: PHP, Java, NodeJS, MySQL.<br><br>-----------------<br><br>- Conocimientos de UI/UX.
 
 
 ## 🌐 Contacto:
