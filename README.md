@@ -27,12 +27,12 @@ Version Control Stack<br>
  Other<br>
  ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=christianortiz-dev&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=christianortiz-dev&theme=radical&hide_border=true)<br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=christianortiz-dev&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=christianortiz-dev&theme=radical&hide_border=true&include_all_commits=false&count_private=false&card_width=600)<br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=christianortiz-dev&theme=radical&hide_border=true&card_width=600)<br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=christianortiz-dev&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact&card_width=600)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&card_width=600)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=christianortiz-dev&icon=5&color=6)](https://visitcount.itsvg.in)
