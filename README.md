@@ -32,6 +32,7 @@ Me llamo Christian, un desarrollador Front-End que está en constante formación
  
  Other<br>
  ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+ ![WINDOWS](https://img.shields.io/badge/Windows-005fb8?style=for-the-badge&logo=windows&logoColor=white)
 
 
  
