@@ -48,8 +48,8 @@ Me llamo Christian, un desarrollador Front-End que está en constante formación
  ![WINDOWS](https://img.shields.io/badge/Windows-005fb8?style=for-the-badge&logo=windows&logoColor=white)
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-
+![Eclipse IDE Badge](https://img.shields.io/badge/Eclipse%20IDE-2C2255?logo=eclipseide&logoColor=fff&style=for-the-badge)
+![Android Studio Badge](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=fff&style=for-the-badge)
 
  
 # 📊 GitHub Stats:
