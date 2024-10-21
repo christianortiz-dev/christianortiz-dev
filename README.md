@@ -54,12 +54,12 @@ Me llamo Christian, un desarrollador Front-End que está en constante formación
 
  
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=christianortiz-dev&theme=radical&hide_border=true&include_all_commits=false&count_private=false&card_width=600)<br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=christianortiz-dev&theme=radical&hide_border=true&card_width=600)<br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=christianortiz-dev&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact&card_width=600)
+![](https://github-readme-stats.vercel.app/api?username=christianortiz-dev&theme=radical&hide_border=true&include_all_commits=false&count_private=false&card_width=1000)<br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=christianortiz-dev&theme=radical&hide_border=true&card_width=1000)<br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=christianortiz-dev&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact&card_width=1000)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&card_width=600)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&card_width=1000)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=christianortiz-dev&icon=5&color=6)](https://visitcount.itsvg.in)
