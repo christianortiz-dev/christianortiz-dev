@@ -1,5 +1,5 @@
 # 💫 Sobre mí:
-Me llamo Christian, un desarrollador Front-End que está en constante formación y con ganas de avanzar tanto profesional como personalmente en el mundo del desarrollo WEB. <br><br>-----------------<br><br>🌱 Sigo aprendiendo constantemente Tecnologías Front-End<br>👨‍💻 Mi portfolio <a href="https://christianortiz-dev.000.pe/">christianortiz-dev.000.pe</a><br>📫 Puedes contactar conmigo a través de: christianortiz.dev@gmail.com<br><br>
+Me llamo Christian, un desarrollador de software que está en constante formación y con ganas de avanzar tanto profesional como personalmente en el mundo de la tecnología. <br><br>-----------------<br><br>🌱 Sigo aprendiendo constantemente Tecnologías Front-End<br>👨‍💻 Mi portfolio <a href="https://christianortiz-dev.000.pe/">christianortiz-dev.000.pe</a><br>📫 Puedes contactar conmigo a través de: christianortiz.dev@gmail.com<br><br>
 
 
 ## 🌐 Contacto:
