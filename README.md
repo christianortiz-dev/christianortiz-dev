@@ -10,10 +10,10 @@ Me llamo Christian, un desarrollador de software que está en constante formaci�
 
  ### 🖥️ Front-End Stack<br>
  &nbsp;&nbsp;&nbsp;
- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
- ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+ ![HTML5](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+ ![CSS3](https://img.shields.io/badge/css-673398.svg?style=for-the-badge&logo=css&logoColor=white)
  ![SASS](https://img.shields.io/badge/sass-cc6699.svg?style=for-the-badge&logo=sass&logoColor=white)
- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+ ![JavaScript](https://img.shields.io/badge/javascript-ecde82.svg?style=for-the-badge&logo=javascript&logoColor=292726)
  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
  &nbsp;&nbsp;&nbsp;
