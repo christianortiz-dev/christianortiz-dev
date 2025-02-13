@@ -87,6 +87,9 @@ Me llamo Christian, un desarrollador de software que está en constante formaci�
  ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
  ![LibreOffice](https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white)
 
+ &nbsp;&nbsp;&nbsp;
+ ![ODOO](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=Odoo&logoColor=black)
+
  
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=christianortiz-dev&theme=radical&hide_border=true&include_all_commits=false&count_private=false&card_width=1000)<br>
